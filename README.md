@@ -1,2 +1,2 @@
 # ping-me
-Validates public endpoint accessibility
+Validates public endpoint accessibility from datacenter.
